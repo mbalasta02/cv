@@ -1,0 +1,22 @@
+/*********************** Tag Selector ***********************/
+body {
+  background-color: #FFEBC1;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 3px;
+  width: 70%;
+
+/*********************** CSS Selector ***********************/
+}
+
+h3 {color: #8E3200;
+ }
+h1 {color: #8E3200;
+ }
+.chicken { background-color: gold;}
+.chicken:hover { background-color: blue; }
+
+/*********************** ID Selector ***********************/
